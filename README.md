@@ -1,4 +1,4 @@
-# EX_13_THREAD
+# Ex.No:13 Develop an application to perform thread Synchronization in android studio.
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
 
